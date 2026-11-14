@@ -1,16 +1,15 @@
-# Selenium Automation Framework
+# github-selenium-framework
 
-## Tech Stack
-- Python 3.9+
-- Selenium WebDriver
-- Pytest
-- Page Object Model
+Early notes for a Selenium and pytest framework. This repository holds no code.
 
-## How to Run
-pip install -r requirements.txt
-pytest tests/ -v
+## Status
 
-## What it Tests
-- Login flow
-- Search functionality  
-- Cart operations
+Only this README and a description file exist. The working Selenium suite (Page Object Model, pytest, login, product, cart and checkout tests) is in [ecommerce-automation](https://github.com/Naysrania18/ecommerce-automation). Treat this repository as an archive candidate.
+
+## Planned stack
+
+Python 3.9+, Selenium WebDriver, pytest, Page Object Model.
+
+## License
+
+No license file yet. Author: [Sandeep Kumar Naysrania](https://github.com/Naysrania18)
